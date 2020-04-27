@@ -1,0 +1,17 @@
+ROM = 28 EA C9 1E 5 0 0 31
+  Chip = DS18B20
+  Data = 1 38 1 4B 46 1F FF 8 10 88  CRC=88
+  Temperature = 19.50 Celsius, 67.10 Fahrenheit
+ROM = 28 FF 66 22 C2 16 4 89
+  Chip = DS18B20
+  Data = 1 3C 1 4B 46 7F FF C 10 36  CRC=36
+  Temperature = 19.75 Celsius, 67.55 Fahrenheit
+ROM = 28 FF 1E 23 B5 16 5 9E
+  Chip = DS18B20
+  Data = 1 36 1 4B 46 7F FF C 10 9A  CRC=9A
+  Temperature = 19.37 Celsius, 66.87 Fahrenheit
+ROM = 28 FF 2B 7B B5 16 5 C
+  Chip = DS18B20
+  Data = 1 37 1 4B 46 7F FF C 10 D9  CRC=D9
+  Temperature = 19.44 Celsius, 66.99 Fahrenheit
+No more addresses.
