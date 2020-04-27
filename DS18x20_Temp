@@ -10,7 +10,7 @@
 OneWire  ds(2);  // on pin 10 (a 4.7K resistor is necessary)
 
 void setup(void) {
-  Serial.begin(11520); // to slow speed, changed
+  Serial.begin(115200); // to slow speed, changed
 }
 
 void loop(void) {
